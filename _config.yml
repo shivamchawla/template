@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: William Fiset
 title: 
 email: william.alexandre.fiset@gmail.com
-website: www.github.com/williamfiset
+# website: www.github.com/williamfiset
 
 # Social links
 # twitter_username: facespics
@@ -17,7 +17,7 @@ github_username:  williamfiset
 # instagram_username: chillwildlife
 linkedin_username: williamfiset
 # pinterest_username: jekyll
-youtube_username: williamfiset
+youtube_username: channel/UCD8yeTczadqdARzQUp29PJw
 
 # About Section
 # about_title: About Me
@@ -39,11 +39,17 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  Support me by encouraging me to create more content:  
+
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_donations" />
+  <input type="hidden" name="business" value="4BXCN4CXE8KAY" />
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+  <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+  </form>
+
 
 # Footer
 footer_show_references: true
