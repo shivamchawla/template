@@ -1,0 +1,6 @@
+Local developement:
+
+$ bundle exec jekyll serve
+
+
+See: https://jekyllrb.com/docs/

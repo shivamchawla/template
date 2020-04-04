@@ -1,10 +1,10 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# favicon: images/favicon.ico
 
 # Personal info
 name: William Fiset
-title: 
+title: # Ex: Software Engineer
 email: william.alexandre.fiset@gmail.com
 # website: www.github.com/williamfiset
 
@@ -20,12 +20,11 @@ linkedin_username: williamfiset
 youtube_username: channel/UCD8yeTczadqdARzQUp29PJw
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's William and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello there 👋 my name is William, I'm currently a software engineer at Google
+  stationed in California. 
 
 # Projects Section
 # projects_title: Projects
@@ -37,22 +36,12 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-
-  Support me by encouraging me to create more content:  
-
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_donations" />
-  <input type="hidden" name="business" value="4BXCN4CXE8KAY" />
-  <input type="hidden" name="currency_code" value="USD" />
-  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-  <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-  </form>
+# more_title:
+# more_content: | # this will include new lines to allow paragraphs
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
