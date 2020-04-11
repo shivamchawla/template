@@ -5,7 +5,7 @@ repository: sproogen/resume-theme
 # Personal info
 name: William Fiset
 title: # Ex: Software Engineer
-email: william.alexandre.fiset@gmail.com
+# email: william.alexandre.fiset@gmail.com
 # website: www.github.com/williamfiset
 
 # Social links
@@ -23,8 +23,7 @@ youtube_username: channel/UCD8yeTczadqdARzQUp29PJw
 about_title: About Me
 about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello there 👋 my name is William, I'm currently a software engineer at Google
-  stationed in California. 
+  Hello there 👋 my name is William
 
 # Projects Section
 # projects_title: Projects
