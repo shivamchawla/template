@@ -1,53 +1,10 @@
-# Site
-repository: sproogen/resume-theme
-# favicon: images/favicon.ico
-
-# Personal info
-name: William Fiset
-title: # Ex: Software Engineer
-# email: william.alexandre.fiset@gmail.com
-# website: www.github.com/williamfiset
-
-# Social links
-# twitter_username: facespics
-github_username:  williamfiset
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
-linkedin_username: williamfiset
-# pinterest_username: jekyll
-youtube_username: channel/UCD8yeTczadqdARzQUp29PJw
-
-# About Section
-about_title: About Me
-about_profile_image: images/avatar.png
-about_content: | # this will include new lines to allow paragraphs
-  Hello there 👋 my name is William
-
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
-# more_title:
-# more_content: | # this will include new lines to allow paragraphs
-
-
-# Footer
-footer_show_references: false
+# Site settings
+title: William fiset
+tag_text: William Fiset
+description: Personal website
 
 # Build settings
-remote_theme: sproogen/resume-theme
-
+markdown: kramdown
+exclude: ["README.md"]
 sass:
-  sass_dir: _sass
   style: compressed
-
-plugins:
- - jekyll-seo-tag
