@@ -12,9 +12,16 @@
 <body>
   <div class="container">
     <h1><a href="./">{{ site.tag_text }}</a></h1>
-    {{ content }}
-
     
+    {{ content }}
+    <!-- ^ Renders the markdown section of this site (currently mostly empty...) -->
+
+    <hr />
+    <img style="float:left;" height="32" width="32" src="img/github.svg"/>&nbsp;<a href="https://github.com/williamfiset">https://github.com/williamfiset</a><br/><br/>
+    <img style="float:left;" height="32" width="32" src="img/linkedin.svg"/>&nbsp;<a href="https://www.linkedin.com/in/williamfiset">https://www.linkedin.com/in/williamfiset</a><br/><br/>
+    <img style="float:left;" height="32" width="32" src="img/youtube.svg"/>&nbsp;<a href="https://www.youtube.com/c/WilliamFiset-videos">https://www.youtube.com/c/WilliamFiset-videos</a><br/><br/>
+    <hr />
+
     <center>
       <p>Support me to continue creating educational content:</p>
       <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -25,8 +32,7 @@
     </center>
 
   </div>
-{% include scripts.html %}
-
+  {% include scripts.html %}
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
